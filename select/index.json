@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "今",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2025-12-17T12:58:51.115160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕たちは 今 話し合うべきなんだ(板野友美、柏木由紀)",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/01_僕たちは_今_話し合うべきなんだ(板野友美、柏木由紀)_AKB48.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕たちは　今　話し合うべきなんだ",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/02_僕たちは_今_話し合うべきなんだ_AKB48.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今、話したい誰かがいる",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/03_今、話したい誰かがいる_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_今_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "今",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/05_今_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今、咲き誇る花たちよ",
+      "artist": "Kobukuro",
+      "has_synced": false,
+      "path": "select/06_今、咲き誇る花たちよ_Kobukuro.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "今、咲き誇る花たちよ",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/07_今、咲き誇る花たちよ_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "今 逢いに行く",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/08_今_逢いに行く_Uru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "今 逢いに行く (现在 去见你)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/09_今_逢いに行く_(现在_去见你)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "今、贈りたい「ありがとう」",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/10_今、贈りたい「ありがとう」_Kara.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "今、話したい誰かがいる",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/11_今、話したい誰かがいる_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "2018 - 今",
+      "artist": "SOUL SCREAM",
+      "has_synced": false,
+      "path": "select/12_2018_-_今_SOUL_SCREAM.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "今、贈りたい|-ありがとう-|",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/13_今、贈りたい_-ありがとう-_KARA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_今_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
